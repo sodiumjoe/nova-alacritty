@@ -1,0 +1,24 @@
+{
+  "name": "nova-alacritty",
+  "version": "1.0.0",
+  "description": "nova color scheme for alacritty terminal emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "author": "Joe Moon <joe@xoxomoon.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "nova-colors": "^2.1.5",
+    "yaml": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "alacritty",
+    "nova",
+    "colors",
+    "terminal"
+  ]
+}
